@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+*COMPANY* : CODETECH IT SOLUTIONS
+*NAME*  : PRAGADHEESH S
+*INTERN ID*  :  CT04DR3080
+*DOMAIN*  : FULLSTACK WEB DEVELOPMENT
+*DURATION*  : 4 WEEKS
+*MENTOR*  :  NEELA SANTOSH
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
